@@ -1,7 +1,7 @@
-# Sprint 8 project
+# Sprint 8 
 
 ## Project Purpose 
-* The purpose of the Sprint 8 project is to practice using Automation testing programs
+* The purpose of the Sprint 8 is to practice using Automation testing programs
 
 ## Installation Instructions
 
